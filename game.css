@@ -1,0 +1,55 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;  
+    background-image: url(img/SPACE.jpg);
+    background-repeat:no-repeat;
+    background-size:auto;
+    }
+.a1 h1{
+position: absolute;
+width: 716px;
+height: 159px;
+left: 380px;
+top: 50px;
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 208px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 20px #B9A8A8;
+}
+.a1 button{
+    position: absolute;
+width: 362px;
+height: 85px;
+left: 539px;
+top: 601px;
+
+background: #000000;
+border-radius: 20px;
+width: 309px;
+height: 52px;
+left: 620px;
+top: 500px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #FFFFFF;
+transition: 0.3s;
+
+}
+.a1 button:hover{
+    color: purple;
+    cursor: pointer;
+    background-color: pink;
+
+}
